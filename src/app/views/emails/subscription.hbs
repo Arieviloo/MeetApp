@@ -1,0 +1,14 @@
+<div style="font-size: 13px; color: #222">
+  <br />
+  Olá {{ owner }},
+
+  <p>O MeetUP <strong>{{ title }}</strong> organizado por você recebeu uma nova inscrição.
+    <br /><br />Confira os dados abaixo do inscrito:
+  </p>
+
+  <p>
+    <strong>Nome:</strong> {{ user.name }} <br />
+    <strong>E-mail:</strong> {{ user.email }} <br />
+    <strong>Data da inscrição:</strong> {{ user.enrolled_at }} <br />
+  </p>
+</div>
