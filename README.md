@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Go Stack logo" src="https://github.com/Arieviloo/MeetaApp-Mobile/blob/master/src/assets/images/logo-gostack.png" />
+    <img alt="Go Stack logo" src="https://github.com/Arieviloo/MeetApp-Mobile/blob/master/src/assets/images/logo-gostack.png" />
     <br>
       MeetaApp-Mobile
 </h1>
