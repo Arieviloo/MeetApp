@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Go Stack logo" src="https://github.com/Arieviloo/MeetApp-Frontend/blob/master/src/assets/images/logo-gostack.png" />
     <br>
-      MeetaApp-Frontend
+      MeetApp-Frontend
 </h1>
 <h4 align="center">
   A challenge for [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) Certificate
